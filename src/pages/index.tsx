@@ -61,9 +61,13 @@ export default function HomePage() {
               through the Services public.<br /><br />
               <b>Location Information</b> : We need information about your location especially for attendance feature.
               We will verify your attendance with your location, if your location is still in the tolerance range from your school it means your attendance is valid.
-              . We determine your location by using other data from your device,
+              Event tough we get your location, we don't collect your location information. We only verify your location in frontend in this case is mobile application and not store them in our storage. We determine your location by using other data from your device,
               such as precise location information from GPS, information about wireless networks
               or cell towers near your mobile device, or your IP address.
+              <b>Face Data</b> : We need information about your face for attendance feature too. After location is valid
+              we will verify the attendance with camera. If there is a face detected in the picture captured by camera we
+              will verify the attendance. We only detect existence of face in picture not check the similarity of face
+              detected. The picture is to help the teacher and school to ensure that student attendance is valid.
             </p>
             <h2 className='mt-7'>
               Consent
