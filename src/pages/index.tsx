@@ -79,6 +79,8 @@ export default function HomePage() {
               such as precise location information from GPS, information about
               wireless networks or cell towers near your mobile device, or your
               IP address.
+              <br />
+              <br />
               <b>Face Data</b> : We need information about your face for
               attendance feature too. After location is valid we will verify the
               attendance with camera. If there is a face detected in the picture
