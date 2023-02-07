@@ -32,9 +32,7 @@ export default function HomePage() {
               account through our admin portal, they must provide us with some
               personal information, such as your name, username, password, email
               address, or phone number. On Garuda, your name and username are
-              always listed publicly, including on your profile page and in
-              search results, and you can use either your real name or a
-              pseudonym. You can create and manage multiple Twitter accounts.
+              always listed publicly.
               <br />
               <br />
               <b>Contact Information</b> : Your school or you may use your
@@ -79,6 +77,8 @@ export default function HomePage() {
               such as precise location information from GPS, information about
               wireless networks or cell towers near your mobile device, or your
               IP address.
+              <br />
+              <br />
               <b>Face Data</b> : We need information about your face for
               attendance feature too. After location is valid we will verify the
               attendance with camera. If there is a face detected in the picture
