@@ -44,7 +44,7 @@ export default function HomePage() {
               client applications.
               <br />
               <br />
-              <b>Communities Information</b> : Garuda Pro is primarily designed
+              <b>Post and Comment Information</b> : Garuda Pro is primarily designed
               to help digitalize learning process in school. Besides that we
               also facilities teacher and student from various school in
               Indonesia to share information each other with Communities
@@ -59,11 +59,17 @@ export default function HomePage() {
               users especially in Indonesia, customers, and services,
               developers, and publishers that integrate Garuda pro content into
               their services. When you share information or content like photos,
-              videos, and links via the Services, you should think carefully
-              about what you are making public. We may use this information to
-              make inferences, like what topics you may be interested in. Our
-              default is almost always to make the information you provide
-              through the Services public.
+              videos, and links, you should think carefully
+              about what you are making public. You have to consent the impact
+              of your content to viewers. We prohibit you to publish objectionable content. Some examples of objectionable content include:
+              <ul>
+                <li>1. <b>Defamatory commentary and hate speech</b> about religion, gender, race and other targeted groups</li>
+                <li>2. <b>Overly sexual material</b> of an explicit nature</li>
+                <li>3. Portrayals of extreme <b>violence</b> or content that encourages violence</li>
+                <li>4. <b>Bullying and harassment</b>, and</li>
+                <li>5. <b>Illegal activities</b> such as drug use and gambling</li>
+              </ul> If we are found that your content has included some of points that we have mentioned, we will remove your content and not impossible your account too in the future. Also for the viewers that found your content is included some of points too, they can report through the application and we will verify the reports. If the report is valid we will doing same thing like we explain before.
+
               <br />
               <br />
               <b>Location Information</b> : We need information about your
