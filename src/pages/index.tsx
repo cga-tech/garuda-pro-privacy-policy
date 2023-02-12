@@ -85,13 +85,13 @@ export default function HomePage() {
               IP address.
               <br />
               <br />
-              <b>Face Data</b> : We need information about your face for
+              <b>Face Data Information</b> : We need information about your face for
               attendance feature too. After location is valid we will verify the
               attendance with camera. If there is a face detected in the picture
               captured by camera we will verify the attendance. We only detect
               existence of face in picture not check the similarity of face
               detected. The picture is to help the teacher and school to ensure
-              that student attendance is valid.
+              that student attendance is valid. Your face data existence in our storage is depend on your school. it can only one semester, one academic year, or more it totally depends on your school. And important thing to note, we don't share your face data to any other third parties. Parties that have possibility access your face data is us as super admin, your admin school, your teacher, and yourself.
             </p>
             <h2 className='mt-7'>Consent</h2>
             <p className='mt-2 text-sm text-gray-800'>
